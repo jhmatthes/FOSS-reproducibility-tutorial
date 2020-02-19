@@ -1,4 +1,4 @@
-# FOSS-reproducibility-tutorial    1  cd /scratch
+# FOSS-reproducibility-tutorial   
     
 ## Computer setup
 
